@@ -1,5 +1,11 @@
+module Main (..) where
+
 import Graphics.Element exposing (show)
 
-four = sqrt 16
-eleven = max 2 11
 
+four =
+  sqrt 16
+
+
+eleven =
+  max 2 11
